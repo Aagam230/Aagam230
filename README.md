@@ -1,39 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=820&lines=Building+developer+tools;Full-stack+product+engineer;Open-source+enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="" />
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aagam230&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=aagam230&theme=github-dark" alt="aagam230 profile hero" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=aagam230&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=aagam230&theme=github-dark" alt="About aagam230" /></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aagam230&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=aagam230&theme=github-dark" alt="Language stack" /></picture>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aagam230&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=aagam230&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
+# 💫 About Me:
+I'm Aagam Gosalia, a fulltime claude user and a part time engineer <br>I'm current working on atcn- an ai powered stock broking platform.<br>I'm trying to build the bridge between hardware and software.<br>fun fact: i play cricket, yes that is fun!<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aagam-gosalia-a42756282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gosaliaaagam@gmail.com) 
 
-## 🤝 Connect With Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aagam230&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aagam230&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aagam230&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aagam230&theme=github-dark&website=gitskins.com&x=octocat&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=aagam230&theme=github-dark&website=gitskins.com&x=octocat" alt="aagam230 social links" /></picture>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aagam230&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aagam230) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/octocat) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](gitskins.com)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aagam230&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Aagam230&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
