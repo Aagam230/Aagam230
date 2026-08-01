@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm Aagam Gosalia, a fulltime claude user and a part time engineer <br>I'm current working on atcn- an ai powered stock broking platform.<br>I'm trying to build the bridge between hardware and software.<br>fun fact: i play cricket, yes that is fun!<br>
 
 
 ## 🌐 Socials:
